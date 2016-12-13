@@ -1,0 +1,8 @@
+[package]
+name = "roco"
+version = "0.1.0"
+authors = ["Mutsuki Kimuraya <sondessein@gmail.com>"]
+
+[dependencies]
+yaml-rust = "*"
+argparse = "*"
