@@ -4,7 +4,6 @@ extern crate yaml_rust;
 use std::env;
 use std::io;
 use std::io::{Read, Write};
-use std::fs;
 use std::fs::File;
 use std::path::{Path, PathBuf};
 use std::collections::HashMap;
